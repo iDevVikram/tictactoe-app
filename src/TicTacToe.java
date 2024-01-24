@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.applet.*;
+// import java.applet.*;
 
 public class TicTacToe {
 	private JFrame frame = new JFrame("Tic Tac Toe");
